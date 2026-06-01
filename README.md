@@ -202,3 +202,4 @@ HR-Analytics-Dashboard/
 ---
 
 ⭐ If you found this project interesting, feel free to star the repository and connect with me on LinkedIn.
+Linkdln: www.linkedin.com/in/tope-aroninuola-064531237
